@@ -12,3 +12,9 @@ C:\Users\valik\Desktop\MyVkApi\VkApi\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# Мережеве\MyVkApi\VkApi\bin\Debug\VkApi.exe.config
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# Мережеве\MyVkApi\VkApi\obj\Debug\VkApi.exe
 C:\Users\Win8\Google Диск\шаг\Шаг 3 C# Мережеве\MyVkApi\VkApi\obj\Debug\VkApi.pdb
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\bin\Debug\VkApi.exe.config
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\obj\Debug\VkApi.csprojResolveAssemblyReference.cache
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\obj\Debug\VkApi.Form1.resources
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\obj\Debug\VkApi.Properties.Resources.resources
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\obj\Debug\VkApi.csproj.GenerateResource.Cache
+C:\Users\valik\Documents\GitHub\.net-internet\MyVkApi\VkApi\obj\Debug\VkApi.csprojFakesResolveAssemblyReference.cache
