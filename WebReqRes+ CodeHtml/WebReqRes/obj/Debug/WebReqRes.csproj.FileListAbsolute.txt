@@ -1,0 +1,6 @@
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\bin\Debug\WebReqRes.exe.config
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\bin\Debug\WebReqRes.exe
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\bin\Debug\WebReqRes.pdb
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\obj\Debug\WebReqRes.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\obj\Debug\WebReqRes.exe
+C:\Users\valik\Desktop\ConsoleApplication1\WebReqRes\obj\Debug\WebReqRes.pdb

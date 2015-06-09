@@ -1,0 +1,16 @@
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\Gmap.net.exe.config
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\Gmap.net.exe
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\Gmap.net.pdb
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\GMap.NET.Core.dll
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\GMap.NET.Core.xml
+C:\Users\valik\Desktop\Json\Gmap.net\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.Form1.resources
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.Properties.Resources.resources
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.csproj.GenerateResource.Cache
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.exe
+C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.pdb
+C:\Users\valik\Desktop\Map+Protocol\Gmap.net\bin\Debug\Gmap.net.exe.config
+C:\Users\valik\Desktop\Map+Protocol\Gmap.net\obj\Debug\Gmap.net.exe
+C:\Users\valik\Desktop\Map+Protocol\Gmap.net\obj\Debug\Gmap.net.pdb

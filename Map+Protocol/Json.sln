@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gmap.net", "Gmap.net\Gmap.net.csproj", "{07A88131-A13C-496F-ADC6-30994B924198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol_Buffers", "Protocol_Buffers\Protocol_Buffers.csproj", "{CE2C2D96-86C0-432C-AB6C-5D443D8EAA99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openpop", "Openpop\Openpop.csproj", "{B15615F0-962E-42D0-8C46-A3E2D2CF928F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A88131-A13C-496F-ADC6-30994B924198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A88131-A13C-496F-ADC6-30994B924198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A88131-A13C-496F-ADC6-30994B924198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A88131-A13C-496F-ADC6-30994B924198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE2C2D96-86C0-432C-AB6C-5D443D8EAA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE2C2D96-86C0-432C-AB6C-5D443D8EAA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE2C2D96-86C0-432C-AB6C-5D443D8EAA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE2C2D96-86C0-432C-AB6C-5D443D8EAA99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15615F0-962E-42D0-8C46-A3E2D2CF928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15615F0-962E-42D0-8C46-A3E2D2CF928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15615F0-962E-42D0-8C46-A3E2D2CF928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15615F0-962E-42D0-8C46-A3E2D2CF928F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

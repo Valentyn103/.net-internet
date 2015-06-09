@@ -1,0 +1,5 @@
+C:\Users\valik\Desktop\CheckPort\CheckPort\bin\Debug\CheckPort.exe.config
+C:\Users\valik\Desktop\CheckPort\CheckPort\bin\Debug\CheckPort.exe
+C:\Users\valik\Desktop\CheckPort\CheckPort\bin\Debug\CheckPort.pdb
+C:\Users\valik\Desktop\CheckPort\CheckPort\obj\Debug\CheckPort.exe
+C:\Users\valik\Desktop\CheckPort\CheckPort\obj\Debug\CheckPort.pdb

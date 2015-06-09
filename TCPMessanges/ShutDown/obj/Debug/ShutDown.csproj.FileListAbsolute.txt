@@ -1,0 +1,9 @@
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.Form1.resources
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.Properties.Resources.resources
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.csproj.GenerateResource.Cache
+C:\Users\valik\Desktop\ShutDown\ShutDown\bin\Debug\ShutDown.exe.config
+C:\Users\valik\Desktop\ShutDown\ShutDown\bin\Debug\ShutDown.exe
+C:\Users\valik\Desktop\ShutDown\ShutDown\bin\Debug\ShutDown.pdb
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.exe
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.pdb
+C:\Users\valik\Desktop\ShutDown\ShutDown\obj\Debug\ShutDown.csprojResolveAssemblyReference.cache

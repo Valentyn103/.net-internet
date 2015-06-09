@@ -1,0 +1,13 @@
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Protocol_Buffers.exe.config
+C:\Users\valik\Desktop\Json\Protocol_Buffers\obj\Debug\Protocol_Buffers.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Protocol_Buffers.exe
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Protocol_Buffers.pdb
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\protobuf-net.dll
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Google.ProtocolBuffers.xml
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\protobuf-net.pdb
+C:\Users\valik\Desktop\Json\Protocol_Buffers\bin\Debug\protobuf-net.xml
+C:\Users\valik\Desktop\Json\Protocol_Buffers\obj\Debug\Protocol_Buffers.exe
+C:\Users\valik\Desktop\Json\Protocol_Buffers\obj\Debug\Protocol_Buffers.pdb

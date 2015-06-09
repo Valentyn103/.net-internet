@@ -1,0 +1,9 @@
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\htmlagillitypack.exe.config
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\htmlagillitypack.exe
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\htmlagillitypack.pdb
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\HtmlAgilityPack.dll
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\bin\Debug\HtmlAgilityPack.xml
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\obj\Debug\htmlagillitypack.csprojResolveAssemblyReference.cache
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\obj\Debug\htmlagillitypack.exe
+C:\Users\valik\Desktop\htmlagillitypack\htmlagillitypack\obj\Debug\htmlagillitypack.pdb
