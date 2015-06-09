@@ -14,3 +14,4 @@ C:\Users\valik\Desktop\Json\Gmap.net\obj\Debug\Gmap.net.pdb
 C:\Users\valik\Desktop\Map+Protocol\Gmap.net\bin\Debug\Gmap.net.exe.config
 C:\Users\valik\Desktop\Map+Protocol\Gmap.net\obj\Debug\Gmap.net.exe
 C:\Users\valik\Desktop\Map+Protocol\Gmap.net\obj\Debug\Gmap.net.pdb
+C:\Users\valik\Documents\GitHub\.net-internet\Map+Protocol\Gmap.net\bin\Debug\Gmap.net.exe.config
